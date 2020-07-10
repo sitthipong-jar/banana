@@ -1,0 +1,1 @@
+print('maain menu')
